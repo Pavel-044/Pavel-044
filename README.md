@@ -28,16 +28,15 @@ I'm a passionate **Computer Science student** currently exploring various progra
 
 ## 📂 Projects
 Here are some projects I've worked on:
-1. **[Project Name]** - Short description. [🔗 GitHub Link]()  
-2. **[Project Name]** - Short description. [🔗 GitHub Link]()  
-3. **[Project Name]** - Short description. [🔗 GitHub Link]()  
+1. **[USSD-simulator]** - Short description. [🔗 GitHub Link](https://github.com/Pavel-044/USSD-simulator)  
+2. **[Ultimate-Task-Manager]** - Short description. [🔗 GitHub Link](https://github.com/Pavel-044/Ultimate-Task-Manager)  
+3. **[Expense Tracker]** - Short description. [🔗 GitHub Link](https://github.com/Pavel-044/KES-Expense-Tracker)  
 
 ## 🤝 Looking to Collaborate!
 I'm eager to work with others on **open-source projects, hackathons, or learning new technologies**. If you're interested in collaborating, feel free to reach out!
 
 ## 📫 How to Reach Me
-- ✉️ Email: [your.email@example.com]()  
-- 💼 LinkedIn: [Your LinkedIn Profile]()  
+- ✉️ Email: [caproneodhiambo044@gmail.com] 
 - 🐦 Twitter: [@YourTwitterHandle]()  
 
 ⭐️ **Let’s build something amazing together!**  
